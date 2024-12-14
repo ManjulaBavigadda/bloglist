@@ -1,0 +1,26 @@
+.blog-item {
+  margin-bottom: 20px;
+}
+
+.blog-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.blog-title {
+  font-size: 20px;
+  color: #12022f;
+}
+
+.blog-date {
+  font-size: 14px;
+  color: #9aa5b1;
+}
+
+.blog-description {
+  font-size: 16px;
+  color: #616e7c;
+  margin-top: 5px;
+}
+
